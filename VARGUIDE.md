@@ -18,21 +18,21 @@ R4c_err: Char representing error type. Also used to terminate the data recording
 R4c_sev: Integer representing severity for error scenarios. 1 for major and 0 for minor.
 
 Robot position:
-R4d_Joi1 = 
-R4d_Joi2 = 
-R4d_Joi3 = 
-R4d_Joi4 = 
-R4d_Joi5 = 
-R4d_Joi6 = 
-R4d_Joi7 = 
+R4d_Joi1 = Joint 1 position
+R4d_Joi2 = Joint 2 position
+R4d_Joi3 = Joint 3 position
+R4d_Joi4 = Joint 4 position
+R4d_Joi5 = Joint 5 position
+R4d_Joi6 = Joint 6 position
+R4d_Joi7 = Joint 7 position
 
-R4d_Tor1 = 
-R4d_Tor2 = 
-R4d_Tor3 = 
-R4d_Tor4 = 
-R4d_Tor5 = 
-R4d_Tor6 = 
-R4d_Tor7 = 
+R4d_Tor1 = Joint 1 torque value
+R4d_Tor2 = Joint 2 torque value
+R4d_Tor3 = Joint 3 torque value
+R4d_Tor4 = Joint 4 torque value
+R4d_Tor5 = Joint 5 torque value
+R4d_Tor6 = Joint 6 torque value
+R4d_Tor7 = Joint 7 torque value
 
 R4d_ForX = 
 R4d_ForY = 
@@ -50,13 +50,6 @@ R4d_MomX =
 R4d_MomY = 
 R4d_MomZ = 
 
-R4c_Joi1 = 
-R4c_Joi2 = 
-R4c_Joi3 = 
-R4c_Joi4 = 
-R4c_Joi5 = 
-R4c_Joi6 =
-R4c_Joi7 = 
 R4c_Vel = 
 R4c_GripperControl = 
 R4c_GripperAct = 
